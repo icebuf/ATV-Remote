@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.icebuf.atvremote.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.icebuf.atvremote.MyBundle
 
 class MyApplicationService {
 
